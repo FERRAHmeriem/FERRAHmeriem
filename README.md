@@ -60,7 +60,7 @@
 
 
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/7e45a196-7b5d-4a86-a0ca-65553ed3623b"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/34351210/205992742-fff3ea85-e639-4abd-bf2e-90220aba2451.gif"  />
 
 
 
