@@ -60,7 +60,7 @@
 
 
 
-<img align="right" height="150" src="https://media3.giphy.com/media/abGEJbkQxU4Ug/200.webp?cid=ecf05e47zr2u7w0m29a4ugzm11j514mk6kg9x1ox79g7ihas&ep=v1_gifs_search&rid=200.webp&ct=g"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/7e45a196-7b5d-4a86-a0ca-65553ed3623b"  />
 
 
 
