@@ -6,6 +6,7 @@
 <div align="center">
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FERRAHmeriem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img align="right" height="150" src="https://c.tenor.com/GiUbb4qg_vwAAAAC/tenor.gif" />
   </br>
 </div>
 
@@ -50,25 +51,25 @@
   <a href="https://www.linkedin.com/in/meriem-ferrah-52818927a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="ferrahmeriemfrrh@gmail.com" target="_blank">
+  <a href="mailto:ferrahmeriemfrrh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="nstagram.com/ferrahmariem/" target="_blank">
+  <a href="https://instagram.com/ferrahmariem/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
 
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/34351210/205992742-fff3ea85-e639-4abd-bf2e-90220aba2451.gif"  />
+
 
 
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=FERRAHmeriem&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FERRAHmeriem&show_icons=true&locale=en&theme=dracula&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+</div>
