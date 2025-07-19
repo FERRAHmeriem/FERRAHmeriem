@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Ferrah Meriem </br></h1>
-<h2 align="center">A third year student at l'École Supérieure d'Informatique Alger , a MERN Stack developer and an AI Enthusiast,  I’m currently a frontend intern at Thynk Tech Dz</br></h2>
+<h2 align="center">A third year student at l'École Supérieure d'Informatique Alger , a Full Stack developer and an AI Enthusiast</br></h2>
 
 
 
