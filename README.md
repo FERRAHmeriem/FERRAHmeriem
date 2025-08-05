@@ -69,7 +69,5 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=FERRAHmeriem&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=FERRAHmeriem&show_icons=true&locale=en&theme=dracula&hide_border=false&rank_icon=github" alt="GitHub Stats" />
 </div>
