@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Ferrah Meriem </br></h1>
 <h2 align="center">A third year student at l'École Supérieure d'Informatique Alger , a Full Stack developer and an AI Enthusiast</br></h2>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=FERRAHmeriem&label=Profile%20views&color=0e75b6&style=flat" alt="meriemFerrah" /> </p>
 
 
 <div align="center">
